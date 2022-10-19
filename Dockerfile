@@ -1,4 +1,4 @@
-FROM ubuntu:latest
+FROM 412314/mltb:heroku
 
 WORKDIR /usr/src/app
 SHELL ["/bin/bash", "-c"]
